@@ -279,12 +279,13 @@ footer {
 }
 
 footer p {
+    color:#251F24;
     padding-block-start: 20px;
 }
 
 footer img {
     padding-block-end: 20px;
-    background: var(--white10);
+    /* background: var(--white10); */
 }
 
 @media screen and(min-width:1366px) {
